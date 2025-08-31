@@ -16,8 +16,9 @@ I enjoy learning new tools and frameworks, and I aim to combine my technical ski
 ___
 
 ## Skill & Technologies
-
+<p align="middle">
 <img src="https://skillicons.dev/icons?i=java,mysql" />
+</p>
 
 ___
 
