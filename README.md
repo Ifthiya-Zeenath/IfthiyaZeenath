@@ -33,14 +33,17 @@ ___
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40" height="40" style="color:red"/>
   </a>
 </p>
+## 🌐 Connect with Me  
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/ifthiyazeenath/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
   </a>
-  <a href="mailto:ifthiyazeenath@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:yourmail@example.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/>
   </a>
-  <a href="https://www.instagram.com/ifthy_zee?igsh=MXR0MG5uaGM0MWp1YQ%3D%3D&utm_source=qr" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://www.instagram.com/YOUR-INSTAGRAM" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40"/>
   </a>
 </p>
+
