@@ -33,17 +33,3 @@ ___
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40" height="40" style="color:red"/>
   </a>
 </p>
-## 🌐 Connect with Me  
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
-  </a>
-  <a href="mailto:yourmail@example.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.instagram.com/YOUR-INSTAGRAM" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40"/>
-  </a>
-</p>
-
