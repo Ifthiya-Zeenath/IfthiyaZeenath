@@ -19,6 +19,7 @@ ___
 <p align="middle">
 <img src="https://skillicons.dev/icons?i=java,mysql" />
 </p>
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,angular,nodejs,mysql,mongodb" />
 
 ___
 
