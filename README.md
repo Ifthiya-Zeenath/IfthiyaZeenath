@@ -15,7 +15,7 @@ ___
 
 ## Skill & Technologies
 
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,angular,nodejs,mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=java,mysql" />
 
 ___
 
