@@ -24,7 +24,7 @@ ___
 
 ## Connect with Me  
 
-<p align="left">
+<p align="middle">
   <a href="www.linkedin.com/in/ifthiyazeenath" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
   </a>
