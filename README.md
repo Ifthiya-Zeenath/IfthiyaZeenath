@@ -19,7 +19,10 @@ ___
 <p align="middle">
 <img src="https://skillicons.dev/icons?i=java,mysql" />
 </p>
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,angular,nodejs,mysql,mongodb" />
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="50" height="50"/>
+
 
 ___
 
