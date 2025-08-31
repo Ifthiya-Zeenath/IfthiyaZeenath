@@ -1,12 +1,15 @@
 # Hi there, I'm Ifthiya Zeenath
+
 ___
+
 Information Systems undergraduate at **Sabaragamuwa University of Sri Lanka**
 passionate abot **Cybersecurity |Full stack Development**
 Sri Lanka
 
 ___
 
-##About Me
+## About Me
+
 I am an Information Systems undergraduate from Sri Lanka wiith a strong interest in developing full-stack web applications and building practical solutions using modern techologgies.
 
 I enjoy learning new tools and frameworks, and I aim to combine my technical skills with management knowledge to contribute to impactful IT projects.
@@ -20,7 +23,7 @@ ___
 ___
 
 
-## 🌐 Connect with Me  
+## Connect with Me  
 
 <p align="left">
   <a href="www.linkedin.com/in/ifthiyazeenath" target="_blank">
