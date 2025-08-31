@@ -2,30 +2,21 @@
 ___
 Information Systems undergraduate at **Sabaragamuwa University of Sri Lanka**
 passionate abot **Cybersecurity |Full stack Development**
-Sri L    anka
+Sri Lanka
+
 ___
 
 ##About Me
 I am an Information Systems undergraduate from Sri Lanka wiith a strong interest in developing full-stack web applications and building practical solutions using modern techologgies.
 
 I enjoy learning new tools and frameworks, and I aim to combine my technical skills with management knowledge to contribute to impactful IT projects.
+
 ___
+
 ## Skill & Technologies
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
-</p>
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,angular,nodejs,mysql,mongodb" />
+
 ___
 
 ## 📊 GitHub Stats  
