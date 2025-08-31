@@ -32,7 +32,7 @@ ___
   <a href="mailto:ifthiyazeenath@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40" height="40" style="color:red"/>
   </a>
-  <a href="[https://www.instagram.com/YOUR-INSTAGRAM](https://www.instagram.com/ifthy_zee?igsh=MXR0MG5uaGM0MWp1YQ%3D%3D&utm_source=qr)" target="_blank">
+ <a href="https://www.instagram.com/YOUR-INSTAGRAM" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40"/>
 </a>
 </p>
