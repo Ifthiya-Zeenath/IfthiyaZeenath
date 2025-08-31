@@ -19,10 +19,6 @@ ___
 <p align="middle">
 <img src="https://skillicons.dev/icons?i=java,mysql" />
 </p>
-<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="50" height="50"/>
-
 
 ___
 
@@ -35,5 +31,8 @@ ___
   </a>
   <a href="mailto:ifthiyazeenath@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40" height="40" style="color:red"/>
+  </a>
+  <a href="[https://www.instagram.com/YOUR-INSTAGRAM](https://www.instagram.com/ifthy_zee?igsh=MXR0MG5uaGM0MWp1YQ%3D%3D&utm_source=qr)" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
