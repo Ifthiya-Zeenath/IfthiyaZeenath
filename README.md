@@ -1,6 +1,5 @@
 # Hi there, I'm Ifthiya Zeenath
 
-___
 
 Information Systems undergraduate at **Sabaragamuwa University of Sri Lanka**
 passionate abot **Cybersecurity |Full stack Development**
